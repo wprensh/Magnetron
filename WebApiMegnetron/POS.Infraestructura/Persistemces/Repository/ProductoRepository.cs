@@ -64,7 +64,7 @@ namespace POS.Infraestructura.Persistemces.Repository
             
             var producto = await _dbContext.Producto.AsNoTracking().SingleOrDefaultAsync(x=>x.id.Equals(id));
 
-            producto!.prop_precio = 0;
+            producto!.prod_precio = 0;
             producto!.prod_costo = 0;
 
 

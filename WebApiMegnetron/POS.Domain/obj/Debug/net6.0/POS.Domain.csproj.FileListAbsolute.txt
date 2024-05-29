@@ -1,0 +1,15 @@
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Domain\bin\Debug\net6.0\POS.Domain.deps.json
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Domain\bin\Debug\net6.0\POS.Domain.runtimeconfig.json
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Domain\bin\Debug\net6.0\POS.Domain.dll
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Domain\bin\Debug\net6.0\POS.Domain.pdb
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Domain\obj\Debug\net6.0\POS.Domain.csproj.AssemblyReference.cache
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Domain\obj\Debug\net6.0\POS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Domain\obj\Debug\net6.0\POS.Domain.AssemblyInfoInputs.cache
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Domain\obj\Debug\net6.0\POS.Domain.AssemblyInfo.cs
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Domain\obj\Debug\net6.0\POS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Domain\obj\Debug\net6.0\POS.Domain.sourcelink.json
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Domain\obj\Debug\net6.0\POS.Domain.dll
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Domain\obj\Debug\net6.0\refint\POS.Domain.dll
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Domain\obj\Debug\net6.0\POS.Domain.pdb
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Domain\obj\Debug\net6.0\POS.Domain.genruntimeconfig.cache
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Domain\obj\Debug\net6.0\ref\POS.Domain.dll

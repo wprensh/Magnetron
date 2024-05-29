@@ -63,7 +63,7 @@ namespace POS.Aplication.Services
         public async Task<BaseResponse<IEnumerable<PersonaSelectResponseDto>>> ListSelectPersona()
         {
             var response = new BaseResponse<IEnumerable<PersonaSelectResponseDto>>();
-            var personas = await _UnitOfWork.ProductoRepository.GetAllProducto();
+            var personas = await _UnitOfWork.PersonaRepository.GetAllPersona();
             if (personas is not null)
             {
                 response.IsSucces = true;

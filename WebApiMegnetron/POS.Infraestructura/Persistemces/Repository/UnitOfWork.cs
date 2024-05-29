@@ -18,6 +18,7 @@ namespace POS.Infraestructura.Persistemces.Repository
         {
             _dbContext = dbContext;
             ProductoRepository = new ProductoRepository(_dbContext);
+            PersonaRepository = new PersonaRepository(_dbContext);
         }
         public void Dispose()
         {

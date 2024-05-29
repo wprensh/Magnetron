@@ -1,0 +1,12 @@
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Utility\bin\Debug\net6.0\POS.Utility.deps.json
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Utility\bin\Debug\net6.0\POS.Utility.dll
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Utility\bin\Debug\net6.0\POS.Utility.pdb
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Utility\obj\Debug\net6.0\POS.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Utility\obj\Debug\net6.0\POS.Utility.AssemblyInfoInputs.cache
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Utility\obj\Debug\net6.0\POS.Utility.AssemblyInfo.cs
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Utility\obj\Debug\net6.0\POS.Utility.csproj.CoreCompileInputs.cache
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Utility\obj\Debug\net6.0\POS.Utility.sourcelink.json
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Utility\obj\Debug\net6.0\POS.Utility.dll
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Utility\obj\Debug\net6.0\refint\POS.Utility.dll
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Utility\obj\Debug\net6.0\POS.Utility.pdb
+C:\Users\walterprens\Documents\Repository\Magnetron\WebApiMegnetron\POS.Utility\obj\Debug\net6.0\ref\POS.Utility.dll

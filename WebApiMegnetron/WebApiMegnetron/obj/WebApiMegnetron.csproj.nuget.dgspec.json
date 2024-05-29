@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\WebApiMegnetron\\WebApiMegnetron.csproj": {}
+    "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\WebApiMegnetron\\WebApiMegnetron.csproj": {}
   },
   "projects": {
-    "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Aplication\\POS.Aplication.csproj": {
+    "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Aplication\\POS.Aplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Aplication\\POS.Aplication.csproj",
+        "projectUniqueName": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Aplication\\POS.Aplication.csproj",
         "projectName": "POS.Aplication",
-        "projectPath": "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Aplication\\POS.Aplication.csproj",
+        "projectPath": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Aplication\\POS.Aplication.csproj",
         "packagesPath": "C:\\Users\\walterprens\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Aplication\\obj\\",
+        "outputPath": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Aplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Domain\\POS.Domain.csproj": {
-                "projectPath": "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Domain\\POS.Domain.csproj"
+              "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Domain\\POS.Domain.csproj": {
+                "projectPath": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Domain\\POS.Domain.csproj"
               },
-              "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Infraestructura\\POS.Infraestructura.csproj": {
-                "projectPath": "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Infraestructura\\POS.Infraestructura.csproj"
+              "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Infraestructura\\POS.Infraestructura.csproj": {
+                "projectPath": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Infraestructura\\POS.Infraestructura.csproj"
               },
-              "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Utility\\POS.Utility.csproj": {
-                "projectPath": "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Utility\\POS.Utility.csproj"
+              "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Utility\\POS.Utility.csproj": {
+                "projectPath": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Utility\\POS.Utility.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Domain\\POS.Domain.csproj": {
+    "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Domain\\POS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Domain\\POS.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Domain\\POS.Domain.csproj",
         "projectName": "POS.Domain",
-        "projectPath": "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Domain\\POS.Domain.csproj",
+        "projectPath": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Domain\\POS.Domain.csproj",
         "packagesPath": "C:\\Users\\walterprens\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Domain\\obj\\",
+        "outputPath": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -166,14 +166,14 @@
         }
       }
     },
-    "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Infraestructura\\POS.Infraestructura.csproj": {
+    "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Infraestructura\\POS.Infraestructura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Infraestructura\\POS.Infraestructura.csproj",
+        "projectUniqueName": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Infraestructura\\POS.Infraestructura.csproj",
         "projectName": "POS.Infraestructura",
-        "projectPath": "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Infraestructura\\POS.Infraestructura.csproj",
+        "projectPath": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Infraestructura\\POS.Infraestructura.csproj",
         "packagesPath": "C:\\Users\\walterprens\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Infraestructura\\obj\\",
+        "outputPath": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Infraestructura\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -195,11 +195,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Domain\\POS.Domain.csproj": {
-                "projectPath": "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Domain\\POS.Domain.csproj"
+              "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Domain\\POS.Domain.csproj": {
+                "projectPath": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Domain\\POS.Domain.csproj"
               },
-              "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Utility\\POS.Utility.csproj": {
-                "projectPath": "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Utility\\POS.Utility.csproj"
+              "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Utility\\POS.Utility.csproj": {
+                "projectPath": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Utility\\POS.Utility.csproj"
               }
             }
           }
@@ -244,14 +244,14 @@
         }
       }
     },
-    "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Utility\\POS.Utility.csproj": {
+    "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Utility\\POS.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Utility\\POS.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Utility\\POS.Utility.csproj",
         "projectName": "POS.Utility",
-        "projectPath": "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Utility\\POS.Utility.csproj",
+        "projectPath": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Utility\\POS.Utility.csproj",
         "packagesPath": "C:\\Users\\walterprens\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Utility\\obj\\",
+        "outputPath": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -309,14 +309,14 @@
         }
       }
     },
-    "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\WebApiMegnetron\\WebApiMegnetron.csproj": {
+    "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\WebApiMegnetron\\WebApiMegnetron.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\WebApiMegnetron\\WebApiMegnetron.csproj",
+        "projectUniqueName": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\WebApiMegnetron\\WebApiMegnetron.csproj",
         "projectName": "WebApiMegnetron",
-        "projectPath": "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\WebApiMegnetron\\WebApiMegnetron.csproj",
+        "projectPath": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\WebApiMegnetron\\WebApiMegnetron.csproj",
         "packagesPath": "C:\\Users\\walterprens\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\WebApiMegnetron\\obj\\",
+        "outputPath": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\WebApiMegnetron\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -338,14 +338,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Aplication\\POS.Aplication.csproj": {
-                "projectPath": "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Aplication\\POS.Aplication.csproj"
+              "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Aplication\\POS.Aplication.csproj": {
+                "projectPath": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Aplication\\POS.Aplication.csproj"
               },
-              "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Infraestructura\\POS.Infraestructura.csproj": {
-                "projectPath": "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Infraestructura\\POS.Infraestructura.csproj"
+              "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Infraestructura\\POS.Infraestructura.csproj": {
+                "projectPath": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Infraestructura\\POS.Infraestructura.csproj"
               },
-              "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Utility\\POS.Utility.csproj": {
-                "projectPath": "C:\\Users\\walterprens\\source\\repos\\WebApiMegnetron\\POS.Utility\\POS.Utility.csproj"
+              "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Utility\\POS.Utility.csproj": {
+                "projectPath": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Utility\\POS.Utility.csproj"
               }
             }
           }
