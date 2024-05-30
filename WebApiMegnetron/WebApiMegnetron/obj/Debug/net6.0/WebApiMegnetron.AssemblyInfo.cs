@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiMegnetron")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ce8001ccbe7d87c87ae6038e50153193c797e25")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4da5d13bdf43212a23c83925ce9b4e8f31eabdc")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiMegnetron")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiMegnetron")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

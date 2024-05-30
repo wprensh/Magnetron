@@ -35,7 +35,7 @@ namespace POS.Infraestructura.Persistemces.Repository
                             .AsNoTracking()
                             .Join(_dbContext.Facturadetalle, p=>p.ProductoId, fd=>fd.ProductoId,(p,df)
                                 => new { Producto = p, Facturadetalle = df })
-                            .Where(x=>x.Facturadetalle.id==id)
+                            .Where(x=>x.Facturadetalle.fdet_id == id)
                             .Select(x =>new Facturadetalle
                             { 
                                 ProductoId = x.Producto.ProductoId,
@@ -49,7 +49,7 @@ namespace POS.Infraestructura.Persistemces.Repository
                                     prod_um = x.Producto.prod_um
 
                                 },
-                                id = x.Facturadetalle.id,
+                                fdet_id = x.Facturadetalle.fdet_id,
                                 fdet_fenc_id = x.Facturadetalle.fdet_fenc_id,
                                 fdet_linea = x.Facturadetalle.fdet_linea,
                                 fdet_cantidad = x.Facturadetalle.fdet_cantidad,

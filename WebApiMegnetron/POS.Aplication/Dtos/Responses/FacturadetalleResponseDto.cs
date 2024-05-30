@@ -9,7 +9,7 @@ namespace POS.Aplication.Dtos.Responses
 {
     public class FacturadetalleResponseDto
     {
-        public int id { get; set; }
+        public int fdet_id { get; set; }
         public int fdet_linea { get; set; }
         public int fdet_cantidad { get; set; }
         public int ProductoId { get; set; }

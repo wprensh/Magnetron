@@ -15,7 +15,7 @@ namespace POS.Domain.Entities
         public DateTime fenc_fecha { get; set; }
         public int PersonaId { get; set; }
 
-        public virtual Persona Persona { get; set; } = null!;
+        public virtual Persona? Persona { get; set; } = null!;
         public virtual ICollection<Facturadetalle> Facturadetalles { get; set; } = null!;
     }
 }

@@ -27,6 +27,8 @@ namespace POS.Aplication.Mappers
             .ReverseMap();
 
             CreateMap<Facturadetalle, FacturadetalleResponseDto>()
+                .ForMember(x=>x.ProductoId,x=>x.MapFrom(y=>y.Producto.ProductoId))
+                .ForMember(x=>x.fdet_prod_precio,x=>x.MapFrom(y=>y.Producto.prod_precio))
            .ReverseMap();
 
         }

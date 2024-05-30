@@ -11,5 +11,6 @@ namespace POS.Aplication.Dtos.Requests
         public int fenc_numero { get; set; }
         public DateTime fenc_fecha { get; set; }
         public int PersonaId { get; set; }
+        public ICollection<FacturadetalleRequestDto> facturadetalleRequestDtos { get; set; }    
     }
 }

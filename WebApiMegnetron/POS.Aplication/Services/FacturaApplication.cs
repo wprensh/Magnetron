@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using FluentValidation;
 using POS.Aplication.Commons.Base;
 using POS.Aplication.Dtos.Requests;
 using POS.Aplication.Dtos.Responses;
@@ -21,8 +22,8 @@ namespace POS.Aplication.Services
     {
         public readonly IUnitOfWork _UnitOfWork;
         public readonly IMapper _mapper;
-        public readonly ProductoValidatos _validatos;
-        public FacturaApplication(IUnitOfWork unitOfWork, IMapper mapper, ProductoValidatos validations)
+        public readonly FacturaValidatos _validatos;
+        public FacturaApplication(IUnitOfWork unitOfWork, IMapper mapper, FacturaValidatos validations)
         {
             _UnitOfWork = unitOfWork;
             _mapper = mapper;
@@ -94,9 +95,32 @@ namespace POS.Aplication.Services
             throw new NotImplementedException();
         }
 
-        public Task<BaseResponse<bool>> ReisterFactura(FacturaRequestDto requestDto)
+        public async Task<BaseResponse<bool>> ReisterFactura(FacturaRequestDto requestDto)
         {
-            throw new NotImplementedException();
+            var response = new BaseResponse<bool>();
+            var validationResult = await _validatos.ValidateAsync(requestDto);
+
+            if (!validationResult.IsValid)
+            {
+                response.IsSucces = false;
+                response.Message = ReplyMessaje.MESSAGE_VALIDATE;
+                response.Erros = validationResult.Errors;
+                return response;
+            }
+            var producto = _mapper.Map<Facturaencabezado>(requestDto);
+            response.Data = await _UnitOfWork.facturaRepository.RegisterFacturaencabezado(producto);
+
+            if (response.Data)
+            {
+                response.IsSucces = true;
+                response.Message = ReplyMessaje.MESSAGE_QUERY_SAVE;
+            }
+            else
+            {
+                response.IsSucces = false;
+                response.Message = ReplyMessaje.MESSAGE_FAILED;
+            }
+            return response;
         }
     }
 }
