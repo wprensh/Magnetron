@@ -43,7 +43,7 @@ namespace POS.Infraestructura.Persistemces.Repository
 
         public async Task<Producto> GetProductoById(int id)
         {
-            var producto = await _dbContext.Producto.AsNoTracking().FirstOrDefaultAsync(x => x.id.Equals(id));
+            var producto = await _dbContext.Producto.AsNoTracking().FirstOrDefaultAsync(x => x.ProductoId.Equals(id));
             return producto!;
         }
 
@@ -62,7 +62,7 @@ namespace POS.Infraestructura.Persistemces.Repository
         public async  Task<bool> DeleteProducto(int id)
         {
             
-            var producto = await _dbContext.Producto.AsNoTracking().SingleOrDefaultAsync(x=>x.id.Equals(id));
+            var producto = await _dbContext.Producto.AsNoTracking().SingleOrDefaultAsync(x=>x.ProductoId.Equals(id));
 
             producto!.prod_precio = 0;
             producto!.prod_costo = 0;

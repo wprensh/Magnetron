@@ -28,6 +28,7 @@ namespace POS.Aplication.Extencions
 
             services.AddScoped<IProductoAplication, ProductoAplication>();
             services.AddScoped<IPersonaApplication, PersonaApplication>();
+            services.AddScoped<IFacturaApplication, FacturaApplication>();
 
             return services;
 

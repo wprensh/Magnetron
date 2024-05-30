@@ -157,7 +157,7 @@ namespace POS.Aplication.Services
             }
 
             var persona = _mapper.Map<Persona>(requestDto);
-            persona.id = id;
+            persona.PersonaId = id;
             response.Data = await _UnitOfWork.PersonaRepository.EditPersona(persona);
 
             if (response.Data)

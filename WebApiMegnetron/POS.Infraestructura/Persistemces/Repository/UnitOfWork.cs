@@ -14,9 +14,15 @@ namespace POS.Infraestructura.Persistemces.Repository
         private readonly AplicationDbContext _dbContext;
         public IProductoRepository ProductoRepository { get; private set; }
         public IPersonaRepository PersonaRepository { get; private set; }
+        public IFacturaRepository facturaRepository { get; private set; }
+        public IFacturaDetalleRepository facturadetalleRepository { get; private set; }
+        
         public UnitOfWork(AplicationDbContext dbContext)
         {
             _dbContext = dbContext;
+
+            facturaRepository = new FacturaRepository(_dbContext);
+            facturadetalleRepository = new FacturadetalleRepository(_dbContext);
             ProductoRepository = new ProductoRepository(_dbContext);
             PersonaRepository = new PersonaRepository(_dbContext);
         }

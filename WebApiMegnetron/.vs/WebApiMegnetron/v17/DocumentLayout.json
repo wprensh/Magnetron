@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AF10CAAB-BC79-4D24-9D55-6E78AC827D33}|POS.Aplication\\POS.Aplication.csproj|c:\\users\\walterprens\\documents\\repository\\magnetron\\webapimegnetron\\pos.aplication\\mappers\\facturamappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF10CAAB-BC79-4D24-9D55-6E78AC827D33}|POS.Aplication\\POS.Aplication.csproj|solutionrelative:pos.aplication\\mappers\\facturamappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF10CAAB-BC79-4D24-9D55-6E78AC827D33}|POS.Aplication\\POS.Aplication.csproj|c:\\users\\walterprens\\documents\\repository\\magnetron\\webapimegnetron\\pos.aplication\\services\\facturaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF10CAAB-BC79-4D24-9D55-6E78AC827D33}|POS.Aplication\\POS.Aplication.csproj|solutionrelative:pos.aplication\\services\\facturaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8855598E-2546-440D-8B8E-B9B53A245CDF}|POS.Infraestructura\\POS.Infraestructura.csproj|c:\\users\\walterprens\\documents\\repository\\magnetron\\webapimegnetron\\pos.infraestructura\\persistemces\\repository\\facturadetallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8855598E-2546-440D-8B8E-B9B53A245CDF}|POS.Infraestructura\\POS.Infraestructura.csproj|solutionrelative:pos.infraestructura\\persistemces\\repository\\facturadetallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8855598E-2546-440D-8B8E-B9B53A245CDF}|POS.Infraestructura\\POS.Infraestructura.csproj|c:\\users\\walterprens\\documents\\repository\\magnetron\\webapimegnetron\\pos.infraestructura\\persistemces\\repository\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8855598E-2546-440D-8B8E-B9B53A245CDF}|POS.Infraestructura\\POS.Infraestructura.csproj|solutionrelative:pos.infraestructura\\persistemces\\repository\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8855598E-2546-440D-8B8E-B9B53A245CDF}|POS.Infraestructura\\POS.Infraestructura.csproj|c:\\users\\walterprens\\documents\\repository\\magnetron\\webapimegnetron\\pos.infraestructura\\persistemces\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8855598E-2546-440D-8B8E-B9B53A245CDF}|POS.Infraestructura\\POS.Infraestructura.csproj|solutionrelative:pos.infraestructura\\persistemces\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8855598E-2546-440D-8B8E-B9B53A245CDF}|POS.Infraestructura\\POS.Infraestructura.csproj|c:\\users\\walterprens\\documents\\repository\\magnetron\\webapimegnetron\\pos.infraestructura\\persistemces\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8855598E-2546-440D-8B8E-B9B53A245CDF}|POS.Infraestructura\\POS.Infraestructura.csproj|solutionrelative:pos.infraestructura\\persistemces\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8855598E-2546-440D-8B8E-B9B53A245CDF}|POS.Infraestructura\\POS.Infraestructura.csproj|c:\\users\\walterprens\\documents\\repository\\magnetron\\webapimegnetron\\pos.infraestructura\\persistemces\\repository\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8855598E-2546-440D-8B8E-B9B53A245CDF}|POS.Infraestructura\\POS.Infraestructura.csproj|solutionrelative:pos.infraestructura\\persistemces\\repository\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8855598E-2546-440D-8B8E-B9B53A245CDF}|POS.Infraestructura\\POS.Infraestructura.csproj|c:\\users\\walterprens\\documents\\repository\\magnetron\\webapimegnetron\\pos.infraestructura\\persistemces\\interface\\ifacturadetallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8855598E-2546-440D-8B8E-B9B53A245CDF}|POS.Infraestructura\\POS.Infraestructura.csproj|solutionrelative:pos.infraestructura\\persistemces\\interface\\ifacturadetallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8855598E-2546-440D-8B8E-B9B53A245CDF}|POS.Infraestructura\\POS.Infraestructura.csproj|c:\\users\\walterprens\\documents\\repository\\magnetron\\webapimegnetron\\pos.infraestructura\\persistemces\\interface\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8855598E-2546-440D-8B8E-B9B53A245CDF}|POS.Infraestructura\\POS.Infraestructura.csproj|solutionrelative:pos.infraestructura\\persistemces\\interface\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF10CAAB-BC79-4D24-9D55-6E78AC827D33}|POS.Aplication\\POS.Aplication.csproj|c:\\users\\walterprens\\documents\\repository\\magnetron\\webapimegnetron\\pos.aplication\\services\\productoaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF10CAAB-BC79-4D24-9D55-6E78AC827D33}|POS.Aplication\\POS.Aplication.csproj|solutionrelative:pos.aplication\\services\\productoaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +47,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FacturaMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Aplication\\Mappers\\FacturaMappingProfile.cs",
+              "RelativeDocumentMoniker": "POS.Aplication\\Mappers\\FacturaMappingProfile.cs",
+              "ToolTip": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Aplication\\Mappers\\FacturaMappingProfile.cs",
+              "RelativeToolTip": "POS.Aplication\\Mappers\\FacturaMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:59:22.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Infraestructura\\Persistemces\\Repository\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "POS.Infraestructura\\Persistemces\\Repository\\UnitOfWork.cs",
               "ToolTip": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Infraestructura\\Persistemces\\Repository\\UnitOfWork.cs",
               "RelativeToolTip": "POS.Infraestructura\\Persistemces\\Repository\\UnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T05:07:47.626Z",
+              "WhenOpened": "2024-05-30T14:45:14.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Infraestructura\\Persistemces\\Repository\\PersonaRepository.cs",
-              "RelativeDocumentMoniker": "POS.Infraestructura\\Persistemces\\Repository\\PersonaRepository.cs",
-              "ToolTip": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Infraestructura\\Persistemces\\Repository\\PersonaRepository.cs",
-              "RelativeToolTip": "POS.Infraestructura\\Persistemces\\Repository\\PersonaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Infraestructura\\Persistemces\\Interface\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "POS.Infraestructura\\Persistemces\\Interface\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Infraestructura\\Persistemces\\Interface\\IUnitOfWork.cs",
+              "RelativeToolTip": "POS.Infraestructura\\Persistemces\\Interface\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T05:07:23.405Z",
+              "WhenOpened": "2024-05-30T14:44:57.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IPersonaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Infraestructura\\Persistemces\\Interface\\IPersonaRepository.cs",
-              "RelativeDocumentMoniker": "POS.Infraestructura\\Persistemces\\Interface\\IPersonaRepository.cs",
-              "ToolTip": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Infraestructura\\Persistemces\\Interface\\IPersonaRepository.cs",
-              "RelativeToolTip": "POS.Infraestructura\\Persistemces\\Interface\\IPersonaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "FacturadetalleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Infraestructura\\Persistemces\\Repository\\FacturadetalleRepository.cs",
+              "RelativeDocumentMoniker": "POS.Infraestructura\\Persistemces\\Repository\\FacturadetalleRepository.cs",
+              "ToolTip": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Infraestructura\\Persistemces\\Repository\\FacturadetalleRepository.cs",
+              "RelativeToolTip": "POS.Infraestructura\\Persistemces\\Repository\\FacturadetalleRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvx8AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T05:07:09.015Z",
+              "WhenOpened": "2024-05-30T14:14:36.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Infraestructura\\Persistemces\\Repository\\FacturaRepository.cs",
+              "RelativeDocumentMoniker": "POS.Infraestructura\\Persistemces\\Repository\\FacturaRepository.cs",
+              "ToolTip": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Infraestructura\\Persistemces\\Repository\\FacturaRepository.cs",
+              "RelativeToolTip": "POS.Infraestructura\\Persistemces\\Repository\\FacturaRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAzwD0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:33:17.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFacturaDetalleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Infraestructura\\Persistemces\\Interface\\IFacturaDetalleRepository.cs",
+              "RelativeDocumentMoniker": "POS.Infraestructura\\Persistemces\\Interface\\IFacturaDetalleRepository.cs",
+              "ToolTip": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Infraestructura\\Persistemces\\Interface\\IFacturaDetalleRepository.cs",
+              "RelativeToolTip": "POS.Infraestructura\\Persistemces\\Interface\\IFacturaDetalleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:13:46.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductoAplication.cs",
+              "DocumentMoniker": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Aplication\\Services\\ProductoAplication.cs",
+              "RelativeDocumentMoniker": "POS.Aplication\\Services\\ProductoAplication.cs",
+              "ToolTip": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Aplication\\Services\\ProductoAplication.cs",
+              "RelativeToolTip": "POS.Aplication\\Services\\ProductoAplication.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAwwEYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:02:01.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacturaApplication.cs",
+              "DocumentMoniker": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Aplication\\Services\\FacturaApplication.cs",
+              "RelativeDocumentMoniker": "POS.Aplication\\Services\\FacturaApplication.cs",
+              "ToolTip": "C:\\Users\\walterprens\\Documents\\Repository\\Magnetron\\WebApiMegnetron\\POS.Aplication\\Services\\FacturaApplication.cs",
+              "RelativeToolTip": "POS.Aplication\\Services\\FacturaApplication.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAEwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:00:46.478Z",
               "EditorCaption": ""
             }
           ]

@@ -8,7 +8,7 @@ namespace POS.Aplication.Dtos.Responses
 {
     public class ProductosResponseDto
     {
-        public int id { get; set; }
+        public int ProductoId { get; set; }
         public string pord_desc { get; set; }
         public decimal prop_precio { get; set; }
         public decimal prod_costo { get; set; }

@@ -11,6 +11,8 @@ namespace POS.Infraestructura.Persistemces.Interface
         //Declarecion o Matricula de Nuestras Interface a nivel de repository
         IProductoRepository ProductoRepository { get; }
         IPersonaRepository PersonaRepository { get; }
+        IFacturaRepository facturaRepository { get; }
+        IFacturaDetalleRepository facturadetalleRepository { get; }
 
         void SaveChanges();
         Task SaveChangesAsync();

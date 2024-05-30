@@ -98,7 +98,7 @@ namespace POS.Aplication.Services
             }
 
             var producto = _mapper.Map<Producto>(requestDto);
-            producto.id = id;
+            producto.ProductoId = id;
             response.Data = await _UnitOfWork.ProductoRepository.EditProducto(producto);
 
             if (response.Data)

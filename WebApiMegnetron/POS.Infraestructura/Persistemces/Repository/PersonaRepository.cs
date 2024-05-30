@@ -45,7 +45,7 @@ namespace POS.Infraestructura.Persistemces.Repository
 
         public async Task<Persona> GetPersonaById(int id)
         {
-            var persona = await _dbContext.Persona.AsNoTracking().FirstOrDefaultAsync(x => x.id.Equals(id));
+            var persona = await _dbContext.Persona.AsNoTracking().FirstOrDefaultAsync(x => x.PersonaId.Equals(id));
             return persona!;
         }
 
@@ -64,7 +64,7 @@ namespace POS.Infraestructura.Persistemces.Repository
 
         public async Task<bool> DeletePersona(int id)
         {
-            var persona = await _dbContext.Persona.AsNoTracking().SingleOrDefaultAsync(x => x.id.Equals(id));
+            var persona = await _dbContext.Persona.AsNoTracking().SingleOrDefaultAsync(x => x.PersonaId.Equals(id));
 
             persona!.per_nombre =string.Empty;
             persona!.per_apellidos = string.Empty;
